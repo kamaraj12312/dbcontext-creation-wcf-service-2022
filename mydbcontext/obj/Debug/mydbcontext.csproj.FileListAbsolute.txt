@@ -1,0 +1,12 @@
+D:\wcf\my project\mydbcontext\mydbcontext\bin\mydbcontext.dll.config
+D:\wcf\my project\mydbcontext\mydbcontext\bin\mydbcontext.dll
+D:\wcf\my project\mydbcontext\mydbcontext\bin\mydbcontext.pdb
+D:\wcf\my project\mydbcontext\mydbcontext\bin\EntityFramework.dll
+D:\wcf\my project\mydbcontext\mydbcontext\bin\EntityFramework.SqlServer.dll
+D:\wcf\my project\mydbcontext\mydbcontext\bin\EntityFramework.xml
+D:\wcf\my project\mydbcontext\mydbcontext\bin\EntityFramework.SqlServer.xml
+D:\wcf\my project\mydbcontext\mydbcontext\obj\Debug\mydbcontext.csproj.AssemblyReference.cache
+D:\wcf\my project\mydbcontext\mydbcontext\obj\Debug\mydbcontext.csproj.CoreCompileInputs.cache
+D:\wcf\my project\mydbcontext\mydbcontext\obj\Debug\mydbcontext.csproj.CopyComplete
+D:\wcf\my project\mydbcontext\mydbcontext\obj\Debug\mydbcontext.dll
+D:\wcf\my project\mydbcontext\mydbcontext\obj\Debug\mydbcontext.pdb
